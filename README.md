@@ -20,7 +20,6 @@ Entrega para el **1.er Machine Learning Contest de GDG on Campus UAM**: clasific
 | `requirements.txt` | Dependencias del modelo: `numpy==2.2.6`. |
 | `final.ipynb` | **Notebook completo** (en español, ejecutable de principio a fin): entender los datos → limpiar → modelo → evaluar. Entrena el modelo entregado. |
 | `requirements-notebook.txt` | Dependencias para re-ejecutar el notebook (torch, scikit-learn, pandas…). |
-| `DECISIONES.md` | Diario de decisiones: pregunta / evidencia / decisión / alternativas descartadas. |
 | `aprendizaje.html` | Guía para aprender: el recorrido completo, los porqués y ejercicios con solución. |
 | `proyecto.html` | El proyecto y los datos, con gráficos por clase y **cómo probarlo en Google Colab**. |
 | `resultados.json` | Los números de la última ejecución del notebook (los usan este README y los HTML). |
